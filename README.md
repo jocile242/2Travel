@@ -31,3 +31,12 @@ format .jpg avec les autres écrans).
 ![2Travel_03](https://github.com/jocile242/2Travel/assets/146430372/32315ce3-d3d3-4107-a17a-8ffcddec811b)
 ![2Travel_02](https://github.com/jocile242/2Travel/assets/146430372/2c1b95bb-fc3f-4c78-b246-edf984869345)
 ![2Travel_01](https://github.com/jocile242/2Travel/assets/146430372/3e3e7199-61d2-4621-9e1e-4dfe2da12acc)
+
+
+![Wireframe_01](https://github.com/jocile242/2Travel/assets/146430372/32dab265-8d7d-45f7-a233-dfd0965e55a9)
+![Wireframe_02](https://github.com/jocile242/2Travel/assets/146430372/cb75dbbe-c4d0-4ae6-89e6-1439aabfb07a)
+![Wireframe_03](https://github.com/jocile242/2Travel/assets/146430372/0833239d-1e39-4ab1-adca-822a99cb39f2)
+
+
+
+
