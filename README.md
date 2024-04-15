@@ -13,6 +13,8 @@ C
 Réalisez une planche de choix typographiques et de couleurs pour la future application (à exporter au
 format .jpg avec les autres écrans).
 
+Lien du proto Figma : https://www.figma.com/proto/GcXWpTy7u8Kc0zLl8fltMS/Wireframes?type=design&node-id=27-953&t=zGJS0B5VBtMIMbK5-1&scaling=min-zoom&page-id=0%3A1
+
 
 ![2Travel_01](https://github.com/jocile242/2Travel/assets/146430372/3e3e7199-61d2-4621-9e1e-4dfe2da12acc)
 ![2Travel_02](https://github.com/jocile242/2Travel/assets/146430372/2c1b95bb-fc3f-4c78-b246-edf984869345)
